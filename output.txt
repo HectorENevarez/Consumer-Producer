@@ -1,0 +1,208 @@
+Belt: 1 CFB + 0 EES = 1. Added crunchy frog bite. Produced: 1 CFB + 0 EES = 1 in 0.000 s.
+Belt: 0 CFB + 0 EES = 0. Lucy consumed crunchy frog bite.  Lucy totals: 1 CFB + 0 EES = 1 consumed in 0.000 s.
+Belt: 0 CFB + 1 EES = 1. Added everlasting escargot sucker. Produced: 1 CFB + 1 EES = 2 in 0.000 s.
+Belt: 0 CFB + 0 EES = 0. Ethel consumed everlasting escargot sucker.  Ethel totals: 0 CFB + 1 EES = 1 consumed in 0.000 s.
+Belt: 1 CFB + 0 EES = 1. Added crunchy frog bite. Produced: 2 CFB + 1 EES = 3 in 0.005 s.
+Belt: 2 CFB + 0 EES = 2. Added crunchy frog bite. Produced: 3 CFB + 1 EES = 4 in 0.010 s.
+Belt: 2 CFB + 1 EES = 3. Added everlasting escargot sucker. Produced: 3 CFB + 2 EES = 5 in 0.015 s.
+Belt: 3 CFB + 1 EES = 4. Added crunchy frog bite. Produced: 4 CFB + 2 EES = 6 in 0.015 s.
+Belt: 2 CFB + 1 EES = 3. Lucy consumed crunchy frog bite.  Lucy totals: 2 CFB + 0 EES = 2 consumed in 0.020 s.
+Belt: 3 CFB + 1 EES = 4. Added crunchy frog bite. Produced: 5 CFB + 2 EES = 7 in 0.020 s.
+Belt: 3 CFB + 2 EES = 5. Added everlasting escargot sucker. Produced: 5 CFB + 3 EES = 8 in 0.030 s.
+Belt: 2 CFB + 2 EES = 4. Ethel consumed crunchy frog bite.  Ethel totals: 1 CFB + 1 EES = 2 consumed in 0.035 s.
+Belt: 3 CFB + 2 EES = 5. Added crunchy frog bite. Produced: 6 CFB + 3 EES = 9 in 0.035 s.
+Belt: 3 CFB + 1 EES = 4. Lucy consumed everlasting escargot sucker.  Lucy totals: 2 CFB + 1 EES = 3 consumed in 0.040 s.
+Belt: 3 CFB + 2 EES = 5. Added everlasting escargot sucker. Produced: 6 CFB + 4 EES = 10 in 0.045 s.
+Belt: 2 CFB + 2 EES = 4. Lucy consumed crunchy frog bite.  Lucy totals: 3 CFB + 1 EES = 4 consumed in 0.060 s.
+Belt: 2 CFB + 3 EES = 5. Added everlasting escargot sucker. Produced: 6 CFB + 5 EES = 11 in 0.060 s.
+Belt: 3 CFB + 3 EES = 6. Added crunchy frog bite. Produced: 7 CFB + 5 EES = 12 in 0.061 s.
+Belt: 2 CFB + 3 EES = 5. Ethel consumed crunchy frog bite.  Ethel totals: 2 CFB + 1 EES = 3 consumed in 0.070 s.
+Belt: 3 CFB + 3 EES = 6. Added crunchy frog bite. Produced: 8 CFB + 5 EES = 13 in 0.071 s.
+Belt: 3 CFB + 4 EES = 7. Added everlasting escargot sucker. Produced: 8 CFB + 6 EES = 14 in 0.075 s.
+Belt: 3 CFB + 3 EES = 6. Lucy consumed everlasting escargot sucker.  Lucy totals: 3 CFB + 2 EES = 5 consumed in 0.080 s.
+Belt: 3 CFB + 4 EES = 7. Added everlasting escargot sucker. Produced: 8 CFB + 7 EES = 15 in 0.090 s.
+Belt: 2 CFB + 4 EES = 6. Lucy consumed crunchy frog bite.  Lucy totals: 4 CFB + 2 EES = 6 consumed in 0.100 s.
+Belt: 3 CFB + 4 EES = 7. Added crunchy frog bite. Produced: 9 CFB + 7 EES = 16 in 0.101 s.
+Belt: 3 CFB + 3 EES = 6. Ethel consumed everlasting escargot sucker.  Ethel totals: 2 CFB + 2 EES = 4 consumed in 0.105 s.
+Belt: 3 CFB + 4 EES = 7. Added everlasting escargot sucker. Produced: 9 CFB + 8 EES = 17 in 0.105 s.
+Belt: 3 CFB + 3 EES = 6. Lucy consumed everlasting escargot sucker.  Lucy totals: 4 CFB + 3 EES = 7 consumed in 0.120 s.
+Belt: 3 CFB + 4 EES = 7. Added everlasting escargot sucker. Produced: 9 CFB + 9 EES = 18 in 0.121 s.
+Belt: 3 CFB + 5 EES = 8. Added everlasting escargot sucker. Produced: 9 CFB + 10 EES = 19 in 0.136 s.
+Belt: 2 CFB + 5 EES = 7. Ethel consumed crunchy frog bite.  Ethel totals: 3 CFB + 2 EES = 5 consumed in 0.140 s.
+Belt: 1 CFB + 5 EES = 6. Lucy consumed crunchy frog bite.  Lucy totals: 5 CFB + 3 EES = 8 consumed in 0.140 s.
+Belt: 2 CFB + 5 EES = 7. Added crunchy frog bite. Produced: 10 CFB + 10 EES = 20 in 0.142 s.
+Belt: 3 CFB + 5 EES = 8. Added crunchy frog bite. Produced: 11 CFB + 10 EES = 21 in 0.147 s.
+Belt: 3 CFB + 6 EES = 9. Added everlasting escargot sucker. Produced: 11 CFB + 11 EES = 22 in 0.151 s.
+Belt: 3 CFB + 5 EES = 8. Lucy consumed everlasting escargot sucker.  Lucy totals: 5 CFB + 4 EES = 9 consumed in 0.161 s.
+Belt: 3 CFB + 6 EES = 9. Added everlasting escargot sucker. Produced: 11 CFB + 12 EES = 23 in 0.166 s.
+Belt: 3 CFB + 5 EES = 8. Ethel consumed everlasting escargot sucker.  Ethel totals: 3 CFB + 3 EES = 6 consumed in 0.175 s.
+Belt: 2 CFB + 5 EES = 7. Lucy consumed crunchy frog bite.  Lucy totals: 6 CFB + 4 EES = 10 consumed in 0.181 s.
+Belt: 2 CFB + 6 EES = 8. Added everlasting escargot sucker. Produced: 11 CFB + 13 EES = 24 in 0.181 s.
+Belt: 3 CFB + 6 EES = 9. Added crunchy frog bite. Produced: 12 CFB + 13 EES = 25 in 0.182 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 12 CFB + 14 EES = 26 in 0.196 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 6 CFB + 5 EES = 11 consumed in 0.201 s.
+Belt: 3 CFB + 5 EES = 8. Ethel consumed everlasting escargot sucker.  Ethel totals: 3 CFB + 4 EES = 7 consumed in 0.211 s.
+Belt: 3 CFB + 6 EES = 9. Added everlasting escargot sucker. Produced: 12 CFB + 15 EES = 27 in 0.211 s.
+Belt: 3 CFB + 5 EES = 8. Lucy consumed everlasting escargot sucker.  Lucy totals: 6 CFB + 6 EES = 12 consumed in 0.221 s.
+Belt: 3 CFB + 6 EES = 9. Added everlasting escargot sucker. Produced: 12 CFB + 16 EES = 28 in 0.226 s.
+Belt: 2 CFB + 6 EES = 8. Lucy consumed crunchy frog bite.  Lucy totals: 7 CFB + 6 EES = 13 consumed in 0.241 s.
+Belt: 2 CFB + 7 EES = 9. Added everlasting escargot sucker. Produced: 12 CFB + 17 EES = 29 in 0.241 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 13 CFB + 17 EES = 30 in 0.243 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 4 CFB + 4 EES = 8 consumed in 0.246 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 14 CFB + 17 EES = 31 in 0.248 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 7 CFB + 7 EES = 14 consumed in 0.261 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 14 CFB + 18 EES = 32 in 0.261 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 4 CFB + 5 EES = 9 consumed in 0.281 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 14 CFB + 19 EES = 33 in 0.281 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 7 CFB + 8 EES = 15 consumed in 0.281 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 14 CFB + 20 EES = 34 in 0.296 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 8 CFB + 8 EES = 16 consumed in 0.301 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 15 CFB + 20 EES = 35 in 0.303 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 4 CFB + 6 EES = 10 consumed in 0.316 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 15 CFB + 21 EES = 36 in 0.316 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 8 CFB + 9 EES = 17 consumed in 0.321 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 15 CFB + 22 EES = 37 in 0.331 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 8 CFB + 10 EES = 18 consumed in 0.341 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 15 CFB + 23 EES = 38 in 0.346 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 4 CFB + 7 EES = 11 consumed in 0.351 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 15 CFB + 24 EES = 39 in 0.361 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 9 CFB + 10 EES = 19 consumed in 0.361 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 16 CFB + 24 EES = 40 in 0.364 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 10 CFB + 10 EES = 20 consumed in 0.381 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 16 CFB + 25 EES = 41 in 0.381 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 4 CFB + 8 EES = 12 consumed in 0.386 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 17 CFB + 25 EES = 42 in 0.386 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 10 CFB + 11 EES = 21 consumed in 0.401 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 17 CFB + 26 EES = 43 in 0.401 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 4 CFB + 9 EES = 13 consumed in 0.421 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 17 CFB + 27 EES = 44 in 0.421 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 11 CFB + 11 EES = 22 consumed in 0.421 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 18 CFB + 27 EES = 45 in 0.426 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 11 CFB + 12 EES = 23 consumed in 0.441 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 18 CFB + 28 EES = 46 in 0.441 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 4 CFB + 10 EES = 14 consumed in 0.456 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 18 CFB + 29 EES = 47 in 0.456 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 11 CFB + 13 EES = 24 consumed in 0.461 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 18 CFB + 30 EES = 48 in 0.472 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 11 CFB + 14 EES = 25 consumed in 0.482 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 18 CFB + 31 EES = 49 in 0.487 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 5 CFB + 10 EES = 15 consumed in 0.491 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 19 CFB + 31 EES = 50 in 0.492 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 11 CFB + 15 EES = 26 consumed in 0.502 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 19 CFB + 32 EES = 51 in 0.502 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 12 CFB + 15 EES = 27 consumed in 0.522 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 19 CFB + 33 EES = 52 in 0.522 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 5 CFB + 11 EES = 16 consumed in 0.526 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 20 CFB + 33 EES = 53 in 0.526 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 12 CFB + 16 EES = 28 consumed in 0.542 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 20 CFB + 34 EES = 54 in 0.542 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 6 CFB + 11 EES = 17 consumed in 0.561 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 20 CFB + 35 EES = 55 in 0.561 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 12 CFB + 17 EES = 29 consumed in 0.562 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 21 CFB + 35 EES = 56 in 0.562 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 12 CFB + 18 EES = 30 consumed in 0.582 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 21 CFB + 36 EES = 57 in 0.582 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 6 CFB + 12 EES = 18 consumed in 0.596 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 21 CFB + 37 EES = 58 in 0.597 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 12 CFB + 19 EES = 31 consumed in 0.602 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 21 CFB + 38 EES = 59 in 0.612 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 13 CFB + 19 EES = 32 consumed in 0.622 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 22 CFB + 38 EES = 60 in 0.622 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 6 CFB + 13 EES = 19 consumed in 0.631 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 22 CFB + 39 EES = 61 in 0.631 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 13 CFB + 20 EES = 33 consumed in 0.642 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 22 CFB + 40 EES = 62 in 0.646 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 14 CFB + 20 EES = 34 consumed in 0.662 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 22 CFB + 41 EES = 63 in 0.662 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 6 CFB + 14 EES = 20 consumed in 0.666 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 23 CFB + 41 EES = 64 in 0.666 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 14 CFB + 21 EES = 35 consumed in 0.682 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 23 CFB + 42 EES = 65 in 0.682 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 7 CFB + 14 EES = 21 consumed in 0.701 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 23 CFB + 43 EES = 66 in 0.701 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 14 CFB + 22 EES = 36 consumed in 0.702 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 24 CFB + 43 EES = 67 in 0.702 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 14 CFB + 23 EES = 37 consumed in 0.722 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 24 CFB + 44 EES = 68 in 0.722 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 7 CFB + 15 EES = 22 consumed in 0.736 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 24 CFB + 45 EES = 69 in 0.737 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 15 CFB + 23 EES = 38 consumed in 0.742 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 25 CFB + 45 EES = 70 in 0.743 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 15 CFB + 24 EES = 39 consumed in 0.762 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 25 CFB + 46 EES = 71 in 0.762 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 7 CFB + 16 EES = 23 consumed in 0.771 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 25 CFB + 47 EES = 72 in 0.777 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 15 CFB + 25 EES = 40 consumed in 0.782 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 25 CFB + 48 EES = 73 in 0.793 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 16 CFB + 25 EES = 41 consumed in 0.803 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 26 CFB + 48 EES = 74 in 0.803 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 7 CFB + 17 EES = 24 consumed in 0.807 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 26 CFB + 49 EES = 75 in 0.808 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 16 CFB + 26 EES = 42 consumed in 0.823 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 26 CFB + 50 EES = 76 in 0.823 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 8 CFB + 17 EES = 25 consumed in 0.842 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 26 CFB + 51 EES = 77 in 0.842 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 16 CFB + 27 EES = 43 consumed in 0.843 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 27 CFB + 51 EES = 78 in 0.844 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 16 CFB + 28 EES = 44 consumed in 0.863 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 27 CFB + 52 EES = 79 in 0.863 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 9 CFB + 17 EES = 26 consumed in 0.877 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 27 CFB + 53 EES = 80 in 0.878 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 16 CFB + 29 EES = 45 consumed in 0.883 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 28 CFB + 53 EES = 81 in 0.883 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 16 CFB + 30 EES = 46 consumed in 0.903 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 28 CFB + 54 EES = 82 in 0.903 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 9 CFB + 18 EES = 27 consumed in 0.912 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 28 CFB + 55 EES = 83 in 0.918 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 17 CFB + 30 EES = 47 consumed in 0.923 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 29 CFB + 55 EES = 84 in 0.923 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 31 EES = 48 consumed in 0.943 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 29 CFB + 56 EES = 85 in 0.943 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 9 CFB + 19 EES = 28 consumed in 0.947 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 29 CFB + 57 EES = 86 in 0.958 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 32 EES = 49 consumed in 0.963 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 29 CFB + 58 EES = 87 in 0.973 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 10 CFB + 19 EES = 29 consumed in 0.982 s.
+Belt: 2 CFB + 6 EES = 8. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 33 EES = 50 consumed in 0.983 s.
+Belt: 3 CFB + 6 EES = 9. Added crunchy frog bite. Produced: 30 CFB + 58 EES = 88 in 0.984 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 30 CFB + 59 EES = 89 in 0.988 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 34 EES = 51 consumed in 1.003 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 30 CFB + 60 EES = 90 in 1.003 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 11 CFB + 19 EES = 30 consumed in 1.017 s.
+Belt: 2 CFB + 8 EES = 10. Added everlasting escargot sucker. Produced: 30 CFB + 61 EES = 91 in 1.018 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 35 EES = 52 consumed in 1.023 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 31 CFB + 61 EES = 92 in 1.023 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 36 EES = 53 consumed in 1.043 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 31 CFB + 62 EES = 93 in 1.043 s.
+Belt: 2 CFB + 7 EES = 9. Ethel consumed crunchy frog bite.  Ethel totals: 12 CFB + 19 EES = 31 consumed in 1.052 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 32 CFB + 62 EES = 94 in 1.054 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 37 EES = 54 consumed in 1.063 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 32 CFB + 63 EES = 95 in 1.063 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 17 CFB + 38 EES = 55 consumed in 1.083 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 32 CFB + 64 EES = 96 in 1.083 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 12 CFB + 20 EES = 32 consumed in 1.087 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 32 CFB + 65 EES = 97 in 1.098 s.
+Belt: 2 CFB + 7 EES = 9. Lucy consumed crunchy frog bite.  Lucy totals: 18 CFB + 38 EES = 56 consumed in 1.103 s.
+Belt: 3 CFB + 7 EES = 10. Added crunchy frog bite. Produced: 33 CFB + 65 EES = 98 in 1.104 s.
+Belt: 3 CFB + 6 EES = 9. Ethel consumed everlasting escargot sucker.  Ethel totals: 12 CFB + 21 EES = 33 consumed in 1.122 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 33 CFB + 66 EES = 99 in 1.122 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 18 CFB + 39 EES = 57 consumed in 1.124 s.
+Belt: 3 CFB + 7 EES = 10. Added everlasting escargot sucker. Produced: 33 CFB + 67 EES = 100 in 1.137 s.
+Belt: 3 CFB + 6 EES = 9. Lucy consumed everlasting escargot sucker.  Lucy totals: 18 CFB + 40 EES = 58 consumed in 1.144 s.
+Belt: 2 CFB + 6 EES = 8. Ethel consumed crunchy frog bite.  Ethel totals: 13 CFB + 21 EES = 34 consumed in 1.157 s.
+Belt: 2 CFB + 5 EES = 7. Lucy consumed everlasting escargot sucker.  Lucy totals: 18 CFB + 41 EES = 59 consumed in 1.164 s.
+Belt: 1 CFB + 5 EES = 6. Lucy consumed crunchy frog bite.  Lucy totals: 19 CFB + 41 EES = 60 consumed in 1.184 s.
+Belt: 1 CFB + 4 EES = 5. Ethel consumed everlasting escargot sucker.  Ethel totals: 13 CFB + 22 EES = 35 consumed in 1.192 s.
+Belt: 1 CFB + 3 EES = 4. Lucy consumed everlasting escargot sucker.  Lucy totals: 19 CFB + 42 EES = 61 consumed in 1.204 s.
+Belt: 1 CFB + 2 EES = 3. Lucy consumed everlasting escargot sucker.  Lucy totals: 19 CFB + 43 EES = 62 consumed in 1.224 s.
+Belt: 0 CFB + 2 EES = 2. Ethel consumed crunchy frog bite.  Ethel totals: 14 CFB + 22 EES = 36 consumed in 1.227 s.
+Belt: 0 CFB + 1 EES = 1. Lucy consumed everlasting escargot sucker.  Lucy totals: 19 CFB + 44 EES = 63 consumed in 1.244 s.
+Belt: 0 CFB + 0 EES = 0. Ethel consumed everlasting escargot sucker.  Ethel totals: 14 CFB + 23 EES = 37 consumed in 1.262 s.
+
+PRODUCTION REPORT
+----------------------------------------
+crunchy frog bite producer generated 33 candies
+everlasting escargot sucker producer generated 67 candies
+Lucy consumed 19 CFB + 44 EES = 63 total
+Ethel consumed 14 CFB + 23 EES = 37 total
+Elapsed time 1.264 s
